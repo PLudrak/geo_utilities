@@ -1,5 +1,5 @@
 import pytest
-from src.geo_utilities import rozpoznaj_uklad, strefa_2000
+from geo_utilities.geo_utilities import rozpoznaj_uklad, strefa_2000
 
 
 @pytest.mark.parametrize(
